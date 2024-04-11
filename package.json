@@ -1,0 +1,27 @@
+{
+  "name": "simple-telegram-web-app",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <br>   <img width=\"240\" src=\"./assets/tapps.png\" alt=\"logo of telegram web apps\">   <br>   <br> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmllein/simple-telegram-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmllein/simple-telegram-web-app/issues"
+  },
+  "homepage": "https://github.com/xmllein/simple-telegram-web-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "node-telegram-bot-api": "^0.65.1",
+    "telegraf": "^3.38.0"
+  }
+}
