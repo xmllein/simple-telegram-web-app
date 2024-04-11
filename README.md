@@ -1,6 +1,6 @@
 ## Getting Started
 
-- `TMA` is a simple text-based adventure game.
+- `TMA` is a simple Demo.
 
 ## Run the Project
 
